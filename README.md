@@ -1,4 +1,4 @@
-# Experimenting with Gitbook:  
+# Experimenting with Gitbook!:  
 
 This gitbook contains ideas on for how we can leverage Gitbooks!
 
